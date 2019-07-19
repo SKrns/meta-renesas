@@ -1,6 +1,7 @@
 # This branch is only for Perseus Inc. and r8a77965(m3nulcb, salvator-x)
 
 Already installed Multimedia, Graphics library, and Linux drivers(20190507) for
+	
 	R-Car Gen3 Evaluation Software Package for Linux for Yocto v3.19.0 and Wayland 1.13 /Weston 2.0
 Layer modifier: GwonSH <soon3626@cyberperseus.com>
 
